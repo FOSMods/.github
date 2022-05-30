@@ -1,12 +1,4 @@
-## Hi there 👋
+### FOSMods is github's (soon to be) largest collection of Game Mods.  
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are trying to make github’s largest collection of game mods.  
+You can contribute to any repository with your custom mod. And if your favourite game isn't here you can request [here](https://github.com/FOSMods/FOSMods/issues/new?assignees=&labels=Game+Request&template=game-request.md&title=Game+Request).
